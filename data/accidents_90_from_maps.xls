@@ -1,0 +1,720 @@
+﻿<html xmlns:x='urn:schemas-microsoft-com:office:excel'><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:Styles><x:Style ss:ID='Default' ss:Name='Normal'><x:Alignment ss:Vertical='Middle'></x:Style></x:Styles><x:ExcelWorksheet><x:Name>תאונות</x:Name><x:WorksheetOptions><x:print><x:ValidPrinterInfo/></x:print><x:DisplayRightToLeft/><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]> כלל התאונות  בדרך מספר 90 מקילומטר 1 ועד קילומטר 180 בשנים 2003 עד 2022</head><body><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>שנה</td><td>חודש</td><td>יום בשבוע</td><td>יום/לילה</td><td>חומרת תאונה</td><td>סוג תאונה</td><td>הרוגים</td><td>פצועים קשה</td><td>פצועים קל</td><td>הולכי רגל שנפגעו</td><td>נפגעים בגיל 0-19</td><td>נפגעים בגיל 20-64</td><td>נפגעים בגיל +65</td><td>נפגעים</td><td>כלי רכב</td><td>נהגים</td><td>סוג דרך</td><td>איכות עיגון</td><td>שם יישוב</td><td>רחוב1/דרך1</td><td>מס' בית/ק"מ</td><td>רחוב2/דרך2</td><td>רחוב3/דרך3</td><td>רחוב4/דרך4</td>
+	</tr><tr>
+		<td>2003</td><td>אפריל</td><td>ראשון</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>8</td><td>0</td><td>1</td><td>8</td><td>0</td><td>9</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>100.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>מאי</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>3</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>75.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>מאי</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>4</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>39.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>יוני</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>135.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>מרס</td><td>שני</td><td>לילה</td><td>קטלנית</td><td>פגיעה בהולך רגל</td><td>1</td><td>4</td><td>22</td><td>1</td><td>12</td><td>15</td><td>0</td><td>27</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>43.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אפריל</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>47.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אוגוסט</td><td>שבת</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אוגוסט</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>11</td><td>0</td><td>3</td><td>8</td><td>0</td><td>11</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>24.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אוגוסט</td><td>רביעי</td><td>יום</td><td>קטלנית</td><td>התנגשות עם עצם דומם</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>117.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אפריל</td><td>שישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>53.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>63.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>נובמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>9333</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אוגוסט</td><td>שבת</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>5</td><td>0</td><td>2</td><td>4</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>98.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>יולי</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>4</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>52.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>פברואר</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>6</td><td>0</td><td>3</td><td>3</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>136.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אפריל</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>18</td><td>0</td><td>5</td><td>13</td><td>0</td><td>18</td><td>11</td><td>11</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>111.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>ספטמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>2</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>163.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אפריל</td><td>שבת</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>48.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>ספטמבר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>11</td><td>0</td><td>2</td><td>9</td><td>0</td><td>11</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>154.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>דצמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>155.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>יולי</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>140.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>ספטמבר</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>147.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>יולי</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>אפריל</td><td>רביעי</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>64.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>ינואר</td><td>רביעי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>4</td><td>4</td><td>0</td><td>3</td><td>6</td><td>0</td><td>9</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>51.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>מרס</td><td>שבת</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>5</td><td>0</td><td>3</td><td>3</td><td>0</td><td>6</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>155.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>נובמבר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>58.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2003</td><td>ספטמבר</td><td>ראשון</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>2</td><td>2</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>87.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ינואר</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>143.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ינואר</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>פברואר</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>49.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>יוני</td><td>שני</td><td>יום</td><td>קשה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>58.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>פברואר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>97.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>מאי</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>42.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ספטמבר</td><td>שישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית באחור</td><td>0</td><td>2</td><td>3</td><td>0</td><td>0</td><td>5</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>112.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ספטמבר</td><td>רביעי</td><td>יום</td><td>קשה</td><td>התנגשות צד בצד</td><td>0</td><td>3</td><td>8</td><td>0</td><td>5</td><td>5</td><td>1</td><td>11</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>176.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אפריל</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>6</td><td>0</td><td>4</td><td>2</td><td>0</td><td>6</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>8.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוקטובר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1123</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ספטמבר</td><td>שבת</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>6</td><td>0</td><td>1</td><td>5</td><td>0</td><td>6</td><td>3</td><td>3</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>9333</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>מרס</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>4</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>125.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוקטובר</td><td>שבת</td><td>יום</td><td>קשה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>153.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>פברואר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>8</td><td>0</td><td>7</td><td>1</td><td>0</td><td>8</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>29.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ינואר</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>29.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוגוסט</td><td>שבת</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>4</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>31.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוקטובר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>3</td><td>4</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>153.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוקטובר</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>67.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ספטמבר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>35.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוקטובר</td><td>רביעי</td><td>לילה</td><td>קשה</td><td>פגיעה בהולך רגל</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>פברואר</td><td>שלישי</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>2</td><td>0</td><td>7</td><td>0</td><td>6</td><td>3</td><td>0</td><td>9</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>129.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>מאי</td><td>שלישי</td><td>יום</td><td>קשה</td><td>התנגשות צד בצד</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>5</td><td>5</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>מאי</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>9</td><td>0</td><td>3</td><td>6</td><td>0</td><td>9</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>83.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>5</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>31.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>ספטמבר</td><td>שבת</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>94.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>נובמבר</td><td>שלישי</td><td>יום</td><td>קשה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>80.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>מאי</td><td>שבת</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>140.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>יוני</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>30.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>יולי</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>28.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2004</td><td>אוגוסט</td><td>שלישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>163.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ספטמבר</td><td>שבת</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>106.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אוגוסט</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>41.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>2</td><td>4</td><td>0</td><td>4</td><td>2</td><td>0</td><td>6</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>152.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יולי</td><td>שני</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>124.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>דצמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות צד בצד</td><td>0</td><td>2</td><td>10</td><td>0</td><td>0</td><td>12</td><td>0</td><td>12</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>34.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יוני</td><td>שישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>143.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>דצמבר</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>88.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>מאי</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>18.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אפריל</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>אחר</td><td>0</td><td>0</td><td>13</td><td>0</td><td>0</td><td>13</td><td>0</td><td>13</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>94.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>פברואר</td><td>שבת</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>164.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יוני</td><td>ראשון</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>77.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אפריל</td><td>שני</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>103.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אוגוסט</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>76.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ינואר</td><td>שישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>149.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ספטמבר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>36.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית באחור</td><td>1</td><td>5</td><td>11</td><td>0</td><td>7</td><td>10</td><td>0</td><td>17</td><td>8</td><td>8</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ינואר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>171.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אפריל</td><td>שלישי</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>31.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ינואר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>12</td><td>0</td><td>8</td><td>4</td><td>0</td><td>12</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>49.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אוגוסט</td><td>שישי</td><td>יום</td><td>קטלנית</td><td>התנגשות צד בצד</td><td>2</td><td>1</td><td>1</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>143.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ספטמבר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>1</td><td>4</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>25.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>דצמבר</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>41.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>50.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יוני</td><td>שני</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>140.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>ספטמבר</td><td>ראשון</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>176.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>יוני</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>120.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>מאי</td><td>שני</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>56.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2005</td><td>אוקטובר</td><td>ראשון</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>4</td><td>1</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>100.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אפריל</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>4</td><td>1</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>132.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>ינואר</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>177.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>מרס</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>החלקה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>67.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אפריל</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>3</td><td>0</td><td>2</td><td>1</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>42.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אפריל</td><td>שלישי</td><td>לילה</td><td>קשה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>130.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>ינואר</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>27.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>יולי</td><td>רביעי</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>98.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אוקטובר</td><td>ראשון</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>82.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>יוני</td><td>שישי</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>73.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>פברואר</td><td>שבת</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>4</td><td>0</td><td>0</td><td>1</td><td>4</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>71.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>פברואר</td><td>שני</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>146.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>2</td><td>5</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>14.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>ינואר</td><td>שבת</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>84.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אפריל</td><td>שני</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>118.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>11</td><td>0</td><td>5</td><td>6</td><td>1</td><td>12</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>156.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>8</td><td>0</td><td>3</td><td>5</td><td>0</td><td>8</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>106.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>ינואר</td><td>שני</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>32.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אפריל</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>2</td><td>5</td><td>0</td><td>7</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>119.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>מאי</td><td>ראשון</td><td>יום</td><td>קלה</td><td>אחר</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>98.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>ינואר</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>30.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אוקטובר</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>52.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אוגוסט</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>126.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>אוקטובר</td><td>חמישי</td><td>לילה</td><td>קשה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>142.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2006</td><td>יוני</td><td>שבת</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>3</td><td>0</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>86.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ינואר</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>51.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>דצמבר</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>1</td><td>4</td><td>0</td><td>5</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>54.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>72.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ספטמבר</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>74.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>אוקטובר</td><td>רביעי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>123.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>נובמבר</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>28.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>אוגוסט</td><td>שני</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>2</td><td>1</td><td>1</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>89.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>אוקטובר</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>89</td><td>0</td><td>81</td><td>8</td><td>0</td><td>89</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>164.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>יוני</td><td>שישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>30.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>5</td><td>0</td><td>2</td><td>4</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>35.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>דצמבר</td><td>ראשון</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>2</td><td>5</td><td>0</td><td>7</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>30.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>אפריל</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>28.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ספטמבר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>69.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ינואר</td><td>רביעי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>2</td><td>4</td><td>1</td><td>0</td><td>3</td><td>4</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>56.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ספטמבר</td><td>שישי</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>95.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>אוקטובר</td><td>שבת</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>2</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>170.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>84.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>4</td><td>2</td><td>1</td><td>0</td><td>3</td><td>4</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>68.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>152.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>אפריל</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>58.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2007</td><td>ספטמבר</td><td>רביעי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>84.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>אוגוסט</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1302</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יוני</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1123</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>ינואר</td><td>ראשון</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>47.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>מרס</td><td>רביעי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>131.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>73.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>אפריל</td><td>שבת</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>108.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>17.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>3</td><td>4</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>24.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>דצמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>116.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>מרס</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>53.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>64.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>1</td><td>4</td><td>0</td><td>2</td><td>4</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>64.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>אוגוסט</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>175.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>ספטמבר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>אחר</td><td>0</td><td>0</td><td>6</td><td>0</td><td>1</td><td>5</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>42.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>מרס</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>127.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>מרס</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>2</td><td>2</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>50.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>ספטמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>119.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>אפריל</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>11</td><td>0</td><td>11</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>164.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>48.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>8</td><td>0</td><td>2</td><td>6</td><td>0</td><td>8</td><td>5</td><td>5</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>ספטמבר</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>61.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>אוקטובר</td><td>שלישי</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>4</td><td>0</td><td>0</td><td>5</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>171.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>מרס</td><td>שישי</td><td>לילה</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>50.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יוני</td><td>חמישי</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>63.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>יוני</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>49.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2008</td><td>מרס</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>55.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>נובמבר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>125.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>יולי</td><td>שבת</td><td>יום</td><td>קשה</td><td>התנגשות צד בצד</td><td>0</td><td>3</td><td>6</td><td>0</td><td>2</td><td>7</td><td>0</td><td>9</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>60.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>0</td><td>3</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>89.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>מרס</td><td>שני</td><td>לילה</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>51.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>נובמבר</td><td>שני</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית באחור</td><td>1</td><td>0</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>8</td><td>8</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>34.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>אפריל</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>14.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>ספטמבר</td><td>שני</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>63.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>אפריל</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>69.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>מרס</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>96.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>אפריל</td><td>שבת</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>3</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>103.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>נובמבר</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>95.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>מאי</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>32.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>יוני</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>15.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>נובמבר</td><td>ראשון</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>71.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>אוגוסט</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>2</td><td>1</td><td>3</td><td>6</td><td>6</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>21.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>דצמבר</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>34.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>נובמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>121.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>מרס</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>48.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>ספטמבר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>35.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>155.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2009</td><td>ינואר</td><td>שלישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>33.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>יוני</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>40</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>ספטמבר</td><td>רביעי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>2</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>59.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>מרכז קילומטר</td><td>&nbsp;</td><td>90</td><td>14.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>פברואר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>180.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>ינואר</td><td>שני</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>94.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>יולי</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>49.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>פברואר</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>5</td><td>0</td><td>2</td><td>2</td><td>1</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>64.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>יולי</td><td>רביעי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית באחור</td><td>1</td><td>2</td><td>2</td><td>0</td><td>1</td><td>4</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>113.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>דצמבר</td><td>חמישי</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>49.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>אוגוסט</td><td>שני</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>155.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>אוגוסט</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>95.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>יוני</td><td>ראשון</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>93.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>מרס</td><td>שני</td><td>יום</td><td>קלה</td><td>אחר</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>132.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>ינואר</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>136.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>אפריל</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>67.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>מאי</td><td>שישי</td><td>לילה</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>אוקטובר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>10</td><td>0</td><td>0</td><td>10</td><td>0</td><td>10</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>42.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2010</td><td>מרס</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>5</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>143.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>יוני</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>21.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>אפריל</td><td>שני</td><td>יום</td><td>קשה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>107.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>ינואר</td><td>חמישי</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>2</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>35.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>ינואר</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>35.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>יולי</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>5</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>180.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>5</td><td>2</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>81.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>2</td><td>2</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>131.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>מאי</td><td>שלישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>135.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>מרס</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>18.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>מרס</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>18.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>4</td><td>1</td><td>29</td><td>0</td><td>4</td><td>28</td><td>2</td><td>34</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>57.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>יולי</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>14.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>אפריל</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>14.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>ספטמבר</td><td>שני</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>65.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2011</td><td>ספטמבר</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>22.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>אוקטובר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>1</td><td>3</td><td>1</td><td>5</td><td>5</td><td>5</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>105.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>אפריל</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>3</td><td>3</td><td>1</td><td>7</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>15.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>יולי</td><td>שני</td><td>יום</td><td>קלה</td><td>פגיעה בהולך רגל</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>50.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>דצמבר</td><td>שני</td><td>לילה</td><td>קטלנית</td><td>פגיעה בהולך רגל</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>92.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>אפריל</td><td>ראשון</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>49.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>פברואר</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>23.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>אוגוסט</td><td>שני</td><td>לילה</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>38.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>אוקטובר</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>2</td><td>0</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>121.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>ינואר</td><td>שני</td><td>לילה</td><td>קשה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>47.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>אוגוסט</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>15.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>נובמבר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>171.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>פברואר</td><td>שלישי</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>52.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>דצמבר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>118.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>יולי</td><td>שני</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2012</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>179.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>אוגוסט</td><td>שלישי</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>10</td><td>0</td><td>0</td><td>10</td><td>0</td><td>11</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>180.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>3</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>175.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>6</td><td>0</td><td>6</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>133.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>אוקטובר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>1</td><td>3</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>81.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>נובמבר</td><td>ראשון</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>2</td><td>1</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>97.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>דצמבר</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>15.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>אפריל</td><td>רביעי</td><td>יום</td><td>קשה</td><td>פגיעה בהולך רגל</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>117.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2013</td><td>יולי</td><td>שישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>175.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>פברואר</td><td>שבת</td><td>לילה</td><td>קלה</td><td>פגיעה בהולך רגל</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>12</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>יוני</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>88.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>אוקטובר</td><td>שני</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>2</td><td>5</td><td>0</td><td>3</td><td>3</td><td>0</td><td>7</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>86.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>מרס</td><td>שלישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>55.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>אפריל</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>29.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>ינואר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>132.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>אוקטובר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>8</td><td>0</td><td>3</td><td>5</td><td>0</td><td>8</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>18.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>אוקטובר</td><td>רביעי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>2</td><td>5</td><td>0</td><td>3</td><td>5</td><td>0</td><td>8</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>158.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>דצמבר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>111.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>יולי</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>20.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>מאי</td><td>שבת</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>5</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>120.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>נובמבר</td><td>שישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>מאי</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>3</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>55.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>7</td><td>0</td><td>4</td><td>3</td><td>0</td><td>7</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>41.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>3</td><td>3</td><td>1</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>137.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2014</td><td>מאי</td><td>חמישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>135.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>אפריל</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>40</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>יוני</td><td>שישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>ינואר</td><td>שבת</td><td>יום</td><td>קלה</td><td>אחר</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>60.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>מאי</td><td>שבת</td><td>לילה</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>97.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>נובמבר</td><td>רביעי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>126.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>אפריל</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>87.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>ספטמבר</td><td>שישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>38.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>דצמבר</td><td>שישי</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>29.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>יולי</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>88.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>אוגוסט</td><td>ראשון</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>78.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>יולי</td><td>שלישי</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>32.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>מאי</td><td>שישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>2</td><td>1</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>147.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>יוני</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>3</td><td>3</td><td>1</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>29.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>נובמבר</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>4</td><td>1</td><td>0</td><td>1</td><td>2</td><td>0</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>89.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>פברואר</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>39.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2015</td><td>יולי</td><td>שישי</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>3</td><td>0</td><td>0</td><td>3</td><td>1</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>110.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>יוני</td><td>חמישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית באחור</td><td>1</td><td>0</td><td>9</td><td>0</td><td>0</td><td>8</td><td>2</td><td>10</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>74.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>אוקטובר</td><td>שני</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>אוגוסט</td><td>שלישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>84.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>יוני</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>18.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>אפריל</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>30.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>יולי</td><td>שלישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>5</td><td>3</td><td>0</td><td>6</td><td>3</td><td>0</td><td>9</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>176.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>נובמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>135.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>נובמבר</td><td>רביעי</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>2</td><td>0</td><td>2</td><td>1</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>160.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>דצמבר</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>70.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>מרס</td><td>שני</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>5</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>68.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2016</td><td>פברואר</td><td>שישי</td><td>לילה</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>70.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>מאי</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1095</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>מאי</td><td>שלישי</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>105.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>מרס</td><td>שבת</td><td>יום</td><td>קשה</td><td>החלקה</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>180.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>דצמבר</td><td>שני</td><td>לילה</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>1</td><td>1</td><td>0</td><td>2</td><td>1</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>83.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>אוגוסט</td><td>שני</td><td>יום</td><td>קשה</td><td>התנגשות צד בצד</td><td>0</td><td>2</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>68.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>אוקטובר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>176.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>דצמבר</td><td>שני</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>אפריל</td><td>שישי</td><td>יום</td><td>קשה</td><td>החלקה</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>נובמבר</td><td>חמישי</td><td>לילה</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>4</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>78.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>יוני</td><td>שבת</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>2</td><td>3</td><td>0</td><td>3</td><td>2</td><td>0</td><td>5</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>10.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>דצמבר</td><td>שלישי</td><td>יום</td><td>קשה</td><td>פגיעה בנוסע בתוך כלי הרכב</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>180.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>אוגוסט</td><td>שני</td><td>יום</td><td>קטלנית</td><td>התהפכות</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>45.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2017</td><td>אפריל</td><td>שבת</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>27.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2018</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>2</td><td>12</td><td>0</td><td>2</td><td>9</td><td>3</td><td>14</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>123.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2018</td><td>יוני</td><td>רביעי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>2</td><td>3</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>112.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2018</td><td>פברואר</td><td>שבת</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>4</td><td>0</td><td>0</td><td>5</td><td>0</td><td>5</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>64.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2018</td><td>דצמבר</td><td>חמישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>138.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2018</td><td>יוני</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2018</td><td>אפריל</td><td>שישי</td><td>יום</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>12</td><td>0</td><td>6</td><td>6</td><td>0</td><td>12</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>53.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>אוקטובר</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1095</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>ספטמבר</td><td>חמישי</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>108.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>16.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>דצמבר</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>29.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>אפריל</td><td>שלישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>162.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>מאי</td><td>שבת</td><td>לילה</td><td>קשה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>163.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>ינואר</td><td>שלישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>166.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>יוני</td><td>שישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>83.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>ינואר</td><td>שישי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>53.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>ספטמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>4</td><td>0</td><td>2</td><td>3</td><td>0</td><td>5</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>159.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>נובמבר</td><td>ראשון</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>93.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>אוקטובר</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות צד בצד</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>60.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>אוקטובר</td><td>ראשון</td><td>לילה</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>106.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>ספטמבר</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>109.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>נובמבר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית באחור</td><td>0</td><td>1</td><td>16</td><td>0</td><td>0</td><td>3</td><td>14</td><td>17</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>118.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>אוגוסט</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות צד בצד</td><td>0</td><td>0</td><td>6</td><td>0</td><td>1</td><td>5</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>138.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>יוני</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>2</td><td>4</td><td>1</td><td>0</td><td>3</td><td>4</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>112.20</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2019</td><td>מרס</td><td>שבת</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>5</td><td>1</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>97.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>נובמבר</td><td>שני</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>אוגוסט</td><td>חמישי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1095</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>אוגוסט</td><td>שני</td><td>לילה</td><td>קשה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>96.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>נובמבר</td><td>רביעי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>69.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>נובמבר</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>43.60</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>דצמבר</td><td>שישי</td><td>יום</td><td>קשה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>150.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>מרס</td><td>שלישי</td><td>יום</td><td>קלה</td><td>התהפכות</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>14.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>מרס</td><td>ראשון</td><td>יום</td><td>קלה</td><td>ירידה מהכביש או עלייה למדרכה</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>117.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2020</td><td>יולי</td><td>שבת</td><td>יום</td><td>קשה</td><td>התנגשות חזית בחזית</td><td>0</td><td>3</td><td>1</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>3</td><td>3</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>91.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יולי</td><td>שבת</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>3</td><td>1</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>12</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>אפריל</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות חזית בצד</td><td>0</td><td>1</td><td>5</td><td>0</td><td>3</td><td>3</td><td>0</td><td>6</td><td>3</td><td>3</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1093</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יולי</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>7</td><td>0</td><td>3</td><td>4</td><td>0</td><td>7</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>85.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יוני</td><td>ראשון</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>1</td><td>2</td><td>0</td><td>1</td><td>2</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>32.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>מאי</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות חזית באחור</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>6</td><td>0</td><td>6</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>25.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יולי</td><td>ראשון</td><td>לילה</td><td>קטלנית</td><td>פגיעה בהולך רגל</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>31.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יולי</td><td>חמישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בצד</td><td>1</td><td>2</td><td>10</td><td>0</td><td>6</td><td>7</td><td>0</td><td>13</td><td>4</td><td>4</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>119.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יולי</td><td>רביעי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>160.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>אוקטובר</td><td>חמישי</td><td>יום</td><td>קשה</td><td>התנגשות צד בצד</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>1</td><td>3</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>129.40</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>אוגוסט</td><td>רביעי</td><td>יום</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>1</td><td>1</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>129.80</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>דצמבר</td><td>רביעי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בחזית</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>134.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>אוגוסט</td><td>חמישי</td><td>לילה</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>5</td><td>0</td><td>1</td><td>4</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>60.10</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>יולי</td><td>שישי</td><td>יום</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>1</td><td>0</td><td>4</td><td>0</td><td>1</td><td>4</td><td>0</td><td>5</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>97.70</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>אפריל</td><td>שלישי</td><td>יום</td><td>קשה</td><td>התהפכות</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>1</td><td>1</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>131.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2021</td><td>אפריל</td><td>רביעי</td><td>לילה</td><td>קטלנית</td><td>התנגשות חזית בחזית</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td><td>0</td><td>3</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>118.50</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2022</td><td>מרס</td><td>ראשון</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>3</td><td>3</td><td>לא-עירונית בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>&nbsp;</td><td>1093</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2022</td><td>מרס</td><td>שבת</td><td>לילה</td><td>קלה</td><td>התנגשות עם עצם דומם</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>38.90</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2022</td><td>פברואר</td><td>שני</td><td>יום</td><td>קלה</td><td>התנגשות חזית בצד</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>2</td><td>2</td><td>לא-עירונית לא בצומת</td><td>עיגון מדויק</td><td>&nbsp;</td><td>90</td><td>38.30</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+</table></head><body></xml><![endif]><br/>הלשכה המרכזית לסטטיסטיקה</body></html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	תאונות דרכים עם נפגעים
+</title><link href="App_Themes/Blue_Bridge/MapViewerStyleSheet.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="form1" method="post" action="Default2.aspx?id=703" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGRmxNyi8ydSyQDSkvdLSxNhlP9H1g==" />
+</div>
+
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>
